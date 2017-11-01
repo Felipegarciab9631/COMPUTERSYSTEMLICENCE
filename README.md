@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+
+<!doctype html>
 <html lang="es">  
   <head>    
     <title>COMPUTER SYSTEM LICENCE/title>
