@@ -1,8 +1,3 @@
-# COMPUTERSYSTEMLICENCE
-Choose the best company of licence of computer, we give you the best customer service
-
-
-
 <!DOCTYPE html>
 <html lang="es">  
   <head>    
