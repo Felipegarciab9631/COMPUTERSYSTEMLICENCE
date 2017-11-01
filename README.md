@@ -1,7 +1,8 @@
 
 
 <!doctype html>
-<html lang="es">  
+<html>  
+
   <head>    
     <title>COMPUTER SYSTEM LICENCE/title>
     <meta charset="UTF-8">
