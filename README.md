@@ -25,3 +25,21 @@
           <p>Aquí tenéis una imagen.</p>
           <img src="https://imageshack.com/i/e475044506p" alt="CIS">          
         </div>
+ </article>      
+    </section>
+    <aside>
+      <h3>Banner de publicidad</h3>
+      <a href="http://dominio-externo.com">
+        <img src="http://dominio.com/banner-publicidad.png" alt="banner de publicidad">
+      </a>
+      <h3>Testimonios</h3>
+      <p>Me gusta mucho esta página.</p>
+    </aside>
+    <footer>
+      <h4>Avisos legales</h4>
+      <a href="http://dominio.com/aviso-legal">Política de cookies</a>
+      <h4>Redes sociales</h4>
+      <a href="http://facebook.com/mi-pagina-de-facebook">Mi Facebook</a>
+    </footer>
+  </body>  
+</html>
