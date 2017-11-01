@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">  
   <head>    
-    
-	<title>COMPUTER SYSTEM LICENCE</title>
+    <title>COMPUTER SYSTEM LICENCE/title>
     <meta charset="UTF-8">
     <meta name="title" content="Computer System Licence">
     <meta name="description" content="Somos una compañia la cual brindamos una licencia para sus equipos de computo, esta licencia además trae antivirus y una serie de aplicaciones adicionales que limpiaran su ordenador para estar libre de virus todo el tiempo. Trabajamos constantemente implementando nuevas actualizaciones y opciones en la licencia. ">    
